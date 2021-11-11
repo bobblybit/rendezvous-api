@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9PJUQN8EwV3gmoJkMvAMfgGBpe60q9xNk3yggQjL+IsxZ4dF5+PcGqyDKSwZO6tMxBJkj0ZcRck8BrioGzpww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\source\\repos\\Rendezvous\\Rendezvous\\Rendezvous.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
